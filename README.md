@@ -35,6 +35,14 @@ Output of this call
 ]
 ```
 
+##What is supported
+```
+select * from table
+select field1, field2  from table
+select field1, field2 from table where field1 = "value"
+```
+
+
 That is all for now
 
 more comming soon....
