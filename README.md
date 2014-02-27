@@ -20,9 +20,10 @@ Assumning you have json document (document.json)
 }
 ```
 
-
+Call jsonql with path to json document and sql query
+```
 node jsonql.js ./document.json 'select firstName, lastName from employees'
-
+```
 
 Output of this call
 
