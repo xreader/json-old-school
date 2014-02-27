@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Mikhail Kobrine",
+    "email": "xreader@gmail.com",
+    "url": "http://github.com/xreader/json-old-school"
+  },
+  "contributors": [],
+  "dependencies": {
+      "sql-parser":"0.4.0"
+  },
+  "description": "",
+  "devDependencies": {},
+  "keywords": [
+    "json",
+    "sql",
+    "parser"
+  ],
+  "main": "jsonql.js",
+  "name": "json-old-school",
+  "repository": {
+    "url": "https://github.com/xreader/json-old-school",
+    "type": "git"
+  },
+  "version": "0.0.1",
+  "readmeFilename": "README.md",
+  "_id": "json-old-school@0.0.1",
+  "_from": "json-old-school@0.0.x"
+}
